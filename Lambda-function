@@ -1,5 +1,5 @@
 #AWS Lambda :- Python code for PowerOfMath
- 
+
 # import the JSON utility package
 import json
 # import the Python math library
